@@ -1,7 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import './ChatApp.css';
 
-const API_KEY = 'wys_YMaL6zUeqo1JTogaaPEO1X9cSnzNdW3wNNZG';
+// const API_KEY = 'wys_YMaL6zUeqo1JTogaaPEO1X9cSnzNdW3wNNZG'; Main admin
+const API_KEY = "wyu_uVUafYh58mu4QOeSSbJ3Va4WaMjSs43cdi52"
 const API_BASE_URL = 'https://ad6eac20e88649a6a1af3eed83e2b50e.weavy.io/api';
 
 const userData = [
